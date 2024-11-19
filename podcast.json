@@ -1,17 +1,17 @@
 [
     {
-        "youtubeLink": "https://www.youtube.com/watch?v=abc123",
+        "youtubeLink": "https://youtu.be/cmSbXsFE3l8?si=it_aT5t7cGMrUu9U",
         "videoName": "Introduction to Robotics",
-        "thumbnail": "https://img.youtube.com/vi/abc123/0.jpg"
+        "thumbnail": "https://i.ytimg.com/vi/cmSbXsFE3l8/maxresdefault.jpg"
     },
     {
-        "youtubeLink": "https://www.youtube.com/watch?v=def456",
+        "youtubeLink": "https://youtu.be/oDUgWoHcXnY?si=hVUb0e6XPZ2P3l5i",
         "videoName": "Flutter Basics: Widgets and Layouts",
-        "thumbnail": "https://img.youtube.com/vi/def456/0.jpg"
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf758BhO3f58_6xN8fRngBKXk3d2yLKyU93Q&s"
     },
     {
-        "youtubeLink": "https://www.youtube.com/watch?v=ghi789",
+        "youtubeLink": "https://youtu.be/cmSbXsFE3l8?si=it_aT5t7cGMrUu9U",
         "videoName": "Climate Action: Ecolab Initiatives",
-        "thumbnail": "https://img.youtube.com/vi/ghi789/0.jpg"
+        "thumbnail": "https://i.ytimg.com/vi/cmSbXsFE3l8/maxresdefault.jpg"
     }
 ]
