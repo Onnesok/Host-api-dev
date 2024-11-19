@@ -6,12 +6,22 @@
     },
     {
         "youtubeLink": "https://youtu.be/oDUgWoHcXnY?si=hVUb0e6XPZ2P3l5i",
-        "videoName": "Flutter Basics: Widgets and Layouts",
+        "videoName": "Taal patar sepai",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf758BhO3f58_6xN8fRngBKXk3d2yLKyU93Q&s"
     },
     {
         "youtubeLink": "https://youtu.be/wyK7YuwUWsU?si=QN9ZarqXXLeWc8I2",
-        "videoName": "Climate Action: Ecolab Initiatives",
-        "thumbnail": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/07/06/PNAS/74318181007-2160637293.jpg?crop=2234,2977,x1117,y0"
+        "videoName": "Taylor swift",
+        "thumbnail": "https://img.freepik.com/premium-photo/taylor-swift-picture-american-singer-songwriter_485374-1023.jpg"
+    }
+    {
+        "youtubeLink": "https://youtu.be/CevxZvSJLk8?si=vFU8qmhQ73O1qmaN",
+        "videoName": "katy perry",
+        "thumbnail": "https://i.ytimg.com/vi/CevxZvSJLk8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLACmGBvA_4JDjhAvcm88duJUJZBFw"
+    }
+    {
+        "youtubeLink": "https://youtu.be/Jwgf3wmiA04?si=Q8a9EUHhbixoqias",
+        "videoName": "One direction",
+        "thumbnail": "https://cdn.britannica.com/30/164030-050-255C7C8E/One-Direction-Niall-Horan-Zayn-Malik-Liam-2011.jpg"
     }
 ]
