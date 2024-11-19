@@ -1,0 +1,17 @@
+[
+    {
+        "youtubeLink": "https://www.youtube.com/watch?v=abc123",
+        "videoName": "Introduction to Robotics",
+        "thumbnail": "https://img.youtube.com/vi/abc123/0.jpg"
+    },
+    {
+        "youtubeLink": "https://www.youtube.com/watch?v=def456",
+        "videoName": "Flutter Basics: Widgets and Layouts",
+        "thumbnail": "https://img.youtube.com/vi/def456/0.jpg"
+    },
+    {
+        "youtubeLink": "https://www.youtube.com/watch?v=ghi789",
+        "videoName": "Climate Action: Ecolab Initiatives",
+        "thumbnail": "https://img.youtube.com/vi/ghi789/0.jpg"
+    }
+]
