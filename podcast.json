@@ -23,5 +23,10 @@
         "youtubeLink": "https://youtu.be/Jwgf3wmiA04?si=Q8a9EUHhbixoqias",
         "videoName": "One direction",
         "thumbnail": "https://cdn.britannica.com/30/164030-050-255C7C8E/One-Direction-Niall-Horan-Zayn-Malik-Liam-2011.jpg"
-    }
+    },
+    {
+        "youtubeLink": "https://www.youtube.com/live/-EkNyHXVqBw?si=-5U8SUd4WDy9WOj0",
+        "videoName": "This video is live... test",
+        "thumbnail": "https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png"
+    },
 ]
