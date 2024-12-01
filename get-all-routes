@@ -1,0 +1,89 @@
+[
+  {
+    "routesNumber": 201,
+    "from": "Badda",
+    "to": "Gulshan 1",
+    "fare": 30,
+    "show": true,
+    "time_slots": [
+      {
+        "slot": "07:00-07:30",
+        "available_seats": 20
+      },
+      {
+        "slot": "08:30-09:00",
+        "available_seats": 18
+      },
+      {
+        "slot": "10:00-10:30",
+        "available_seats": 25
+      }
+    ],
+    "pickup_points": [
+      {
+        "name": "Badda Link Road"
+      },
+      {
+        "name": "Gulshan Shooting Club"
+      }
+    ]
+  },
+  {
+    "routesNumber": 202,
+    "from": "Middle Badda",
+    "to": "Gulshan 2",
+    "fare": 35,
+    "show": true,
+    "time_slots": [
+      {
+        "slot": "07:15-07:45",
+        "available_seats": 15
+      },
+      {
+        "slot": "09:00-09:30",
+        "available_seats": 22
+      },
+      {
+        "slot": "11:00-11:30",
+        "available_seats": 20
+      }
+    ],
+    "pickup_points": [
+      {
+        "name": "Middle Badda"
+      },
+      {
+        "name": "Gulshan Circle 2"
+      }
+    ]
+  },
+  {
+    "routesNumber": 203,
+    "from": "Notun Bazar",
+    "to": "Gulshan Avenue",
+    "fare": 25,
+    "show": true,
+    "time_slots": [
+      {
+        "slot": "06:30-07:00",
+        "available_seats": 18
+      },
+      {
+        "slot": "08:00-08:30",
+        "available_seats": 24
+      },
+      {
+        "slot": "10:30-11:00",
+        "available_seats": 20
+      }
+    ],
+    "pickup_points": [
+      {
+        "name": "Notun Bazar"
+      },
+      {
+        "name": "Gulshan Avenue, DCC Market"
+      }
+    ]
+  }
+]
