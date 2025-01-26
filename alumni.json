@@ -1,0 +1,20 @@
+{
+  "alumni": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "designation": "Former President",
+      "profile_picture": "https://example.com/images/john_doe.jpg",
+      "batch": "2016",
+      "department": "Electrical and Electronic Engineering",
+      "achievements": [
+        "Founded the Robotics Club",
+        "Organized the first university-wide robotics competition",
+        "Secured funding for three major projects"
+      ],
+      "contact": {
+        "email": "johndoe@example.com",
+"facebook": "facebook url",
+"linkedin": "https://linkedin.com/in/johndoe"
+      }
+    }
