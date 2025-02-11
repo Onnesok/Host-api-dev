@@ -2,7 +2,7 @@
     {
       "name": "S M Minoor Karim",
       "position": "President",
-      "imageUrl": "assets/panel24/president.png",
+      "imageUrl": "https://raw.githubusercontent.com/Onnesok/Host-api-dev/refs/heads/main/panel24/president.png",
       "description": "Details",
       "facebookUrl": "https://www.facebook.com/Minoor01",
       "linkedInUrl": "https://www.linkedin.com/in/minoorkarim/"
@@ -10,7 +10,7 @@
     {
       "name": "Sajid Sohan",
       "position": "Vice President",
-      "imageUrl": "assets/panel24/vice_president.png",
+      "imageUrl": "https://raw.githubusercontent.com/Onnesok/Host-api-dev/refs/heads/main/panel24/vice_president.png",
       "description": "Details",
       "facebookUrl": "https://www.facebook.com/sajid.sohan100700",
       "linkedInUrl": "https://www.linkedin.com/in/sajid-sohan-4a7248257/"
@@ -18,7 +18,7 @@
     {
       "name": "Ahmed Mahdi Uddin",
       "position": "General Secretary of Operations",
-      "imageUrl": "assets/panel24/secretary.png",
+      "imageUrl": "https://raw.githubusercontent.com/Onnesok/Host-api-dev/refs/heads/main/panel24/secretary.png",
       "description": "Details",
       "facebookUrl": "https://www.facebook.com/mahdi.ahmed.3388",
       "linkedInUrl": "https://www.linkedin.com/in/mahdi-uddin-ahmed-1014311a0/"
@@ -26,7 +26,7 @@
     {
       "name": "Umama Tasnuva Aziz",
       "position": "General Secretary of Administration",
-      "imageUrl": "assets/panel24/general_secretary.png",
+      "imageUrl": "https://raw.githubusercontent.com/Onnesok/Host-api-dev/refs/heads/main/panel24/general_secretary.png",
       "description": "Details",
       "facebookUrl": "https://www.facebook.com/aziz.umtsv",
       "linkedInUrl": "https://www.linkedin.com/in/umama-t-aziz/"
