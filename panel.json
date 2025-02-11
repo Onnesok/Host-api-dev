@@ -1,0 +1,19 @@
+[
+    {
+      "name": "S M Minoor Karim",
+      "position": "President",
+      "imageUrl": "url",
+      "description": "Visionary leader with a passion for sustainability and climate action.",
+      "facebookUrl": "https://facebook.com/annota.hassan",
+      "linkedInUrl": "https://linkedin.com/in/annota-hassan"
+    },
+    {
+      "name": "John Doe",
+      "position": "Vice President",
+      "imageUrl": "https://your-image-url.com/john_doe.jpg",
+      "description": "Dedicated environmentalist focused on clean energy solutions.",
+      "facebookUrl": "https://facebook.com/johndoe",
+      "linkedInUrl": "https://linkedin.com/in/johndoe"
+    }
+  ]
+  
