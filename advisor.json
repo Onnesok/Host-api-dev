@@ -3,13 +3,15 @@
       "name": "Dr. Md. Khalilur Rhaman",
       "description": "TBA",
       "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/Dr.%20Md.%20Khalilur%20Rhaman.jpg?itok=ISKg4A69",
-      "position": "Professor"
+      "position": "Professor",
+      "club_pos": "Advisor"
     },
     {
       "name": "Md. Saiful Islam",
       "description": "TBA",
       "imageUrl": "https://www.bracu.ac.bd/sites/default/files/styles/faculty_grid_image/public/faculty-images/MR.MD_.SAIFUL%20ISLAM%20%5B8841%5D.JPG?itok=YZKxb_jX",
-      "position": "Senior Lecturer"
+      "position": "Senior Lecturer",
+      "club_pos": "Co-Advisor"
     }
   ]
   
